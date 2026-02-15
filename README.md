@@ -8,7 +8,7 @@ The goal is to analyze the trade-off between:
 Text quality (fluency)
 Semantic alignment
 Model architecture differences
-🔹 Retrieval-Augmented Question Answering with GPT2
+##  🔹 Retrieval-Augmented Question Answering with GPT2
 
 This project implements a retrieval-augmented question answering (QA) system using GPT2 as the generative model and Dense Passage Retrieval (DPR) for context retrieval. User queries are first converted into dense vectors, relevant passages are retrieved from the internal document library, and then GPT2 generates context-aware answers.
 
